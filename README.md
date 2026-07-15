@@ -7,7 +7,16 @@
 
                          H I V E   A R C H I T E C T U R E   F R A M E W O R K
                      Distributed • Multi‑Domain • Stability‑First • Ecosystem‑Ready
-README.md (Production‑Ready)
+“Distributed Intelligence. Deterministic Stability. Ecosystem‑Ready.”README.md (Production‑Ready)
+
+“Stability Above All.”
+
+Mission Statement
+To build a distributed AI architecture where stability, safety, and domain sovereignty form the foundation for coordinated intelligence — enabling many specialized systems to operate together predictably, responsibly, and resiliently across hives and ecosystems.
+
+Vision Statement
+A future where complex AI systems cooperate through structured boundaries, deterministic arbitration, and ecosystem‑level safety — creating architectures that endure, evolve responsibly, and remain trustworthy at every scale.
+
 Hive Architecture — Distributed Multi‑Domain AI Coordination Framework
 
 Overview
